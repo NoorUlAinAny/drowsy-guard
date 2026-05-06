@@ -1,0 +1,4 @@
+{
+  "buildCommand": "CI=false react-scripts build",
+  "outputDirectory": "build"
+}
